@@ -2,7 +2,7 @@
 ## Hi! My name is Gustavo 🦆
 
 ### I like programming ducks
-<table border="0" style="border:0;">
+<!-- <table border="0" style="border:0;">
 <tr>
 <td>
 
@@ -13,7 +13,14 @@
 ![Meus status](https://github-readme-stats.vercel.app/api?username=Gustavonn07&title_color=adbac7&text_color=adbac7&theme=transparent&hide_border=true)
 </td>
 </tr>
-</table>
+</table> -->
+
+
+<div>
+   <a href="https://github.com/Gustavonn07">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavonn07&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&langs_count=6&theme=merko"/>
+</div>
 
 ## Technologies I use in my daily life:
 <div style="display: inline_block">
