@@ -1,7 +1,7 @@
 <!-- Para abrir Markdown usar Ctrl + shift + v -->
-## Hi! My name is Gustavo 🦆
+# Hi! My name is Gustavo 🦆
 
-### I like programming ducks
+#### I like programming ducks
 <!-- <table border="0" style="border:0;">
 <tr>
 <td>
