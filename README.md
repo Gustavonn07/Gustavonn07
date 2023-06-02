@@ -40,13 +40,9 @@
       <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     </td>
   </tr>
-</table>
-
-<table align='center'>
-   
-  <tr align='center'>
+   <tr align='center'>
     <td><h2>Thanks for visiting my profile</h2></td>
-    <td><h2> Check my social midias</h2></td>
+    <td><h2>Check my others social medias</h2></td>
   <tr align='center'>
      <td><h3>Visitors:</h3>
     <img src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
@@ -57,7 +53,5 @@
   <a href="https://www.linkedin.com/in/gustavo-nepomuceno-657807272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </td>
   </tr>
-      
 </table>
-
 
