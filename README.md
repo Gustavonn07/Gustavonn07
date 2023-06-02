@@ -16,13 +16,10 @@
 
 <table>
   <tr>
-    <td>
+    <td colspan="2">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavonn07&theme=react-dark&hide_border=true" />
     </td>
   </tr>
-</table>
-
-<table align='center'>
   <tr align='center'>
     <td>
        <h2>Technologies I use in my daily life</h2>
@@ -54,4 +51,3 @@
     </td>
   </tr>
 </table>
-
