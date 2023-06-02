@@ -46,8 +46,18 @@
    
   <tr align='center'>
     <td><h2>Thanks for visiting my profile</h2></td>
+    <td><h2> Check my social midias</h2></td>
   <tr align='center'>
      <td><h3>Visitors:</h3>
-    <img src="https://profile-counter.glitch.me/Gustavonn07/count.svg"></td>
+    <img src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
+    </td>
+    <td>
+  <a href="https://www.instagram.com/_gustavonep/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavonepnog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-nepomuceno-657807272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    </td>
   </tr>
+      
 </table>
+
+
