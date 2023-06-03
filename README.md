@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 I’m a Digital Systems and Media student at UFC, Ceará
 
-- 🌱 I’m currently studying in Digital College to become a Fullstack developer
+- 🌱 I’m currently studying at Digital College to become a Fullstack developer
 
 - 🤔 My interest lies in Web Development (for now).  
 
