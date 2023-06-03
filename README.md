@@ -1,8 +1,3 @@
-# Hi! My name is Gustavo 🦆
-
-#### I like programming ducks
-
-## My GitHub Stats
 <table>
   <tr>
     <td>
