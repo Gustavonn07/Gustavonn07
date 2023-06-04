@@ -4,7 +4,7 @@
   <tr>
     <td>
       
-- 👨🏽‍💻 I’m a Digital Systems and Media student at UFC, Ceará
+- 👨🏽‍💻 I’m a Digital Systems and Media student at UFC, Brasil (CE)
 
 - 🌱 I’m currently studying at Digital College to become a Fullstack developer
 
