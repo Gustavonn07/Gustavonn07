@@ -10,10 +10,11 @@
 
 - 📚 I'm studying programming about 6 months (June/2023)
 
-- 🤔 My interest lies in Web Development (In the future I may study Date Analytics too). 
+- 🤔 My interest lies in Web Development (In the future I may study Date Analytics too).
+ 
     </td>
-    <td>
-       <img  height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&langs_count=6&theme=algolia"/>
+    <td align="center">
+      <img width="70%" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
     </td>
   </tr>
 </table>
@@ -63,18 +64,16 @@
   </tr>
   
   <tr align='center'>
+    <td><h2>Check my Top Languages</h2></td>
     <td><h2>Thanks for visiting my profile</h2></td>
-    <td><h2>Check my others social medias</h2></td>
   </tr>
   
   <tr align='center'>
-     <td><h3>Visitors:</h3>
-    <img src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
-    </td>
     <td>
-  <a href="https://www.instagram.com/_gustavonep/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavonepnog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-nepomuceno-657807272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+       <img  height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&langs_count=6&theme=algolia"/>
+    </td>
+     <td>
+    <img src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
     </td>
   </tr>
   
