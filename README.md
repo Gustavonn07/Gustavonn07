@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently studying at Digital College to become a Fullstack developer
 
-- 🤔 My interest lies in Web Development (for now).  
+- 🤔 My interest lies in Web Development (Maybe in the future I may change to Date Analytics). 
 
 - 📫 Email me at <a href="gustavonepnog@gmail.com">gustavonepnog@gmail.com</a>
 
