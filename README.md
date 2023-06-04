@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently studying at Digital College to become a Fullstack developer
 
+- 📚 I'm studying programming about 6 months (June/2023)
+
 - 🤔 My interest lies in Web Development (In the future I may change to Date Analytics). 
 
 - 📫 Email me at <a href="gustavonepnog@gmail.com">gustavonepnog@gmail.com</a>
