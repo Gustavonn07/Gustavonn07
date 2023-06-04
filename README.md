@@ -1,7 +1,9 @@
-<h1> About Gustavo: </h1> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=52&center=true&vCenter=true&width=1000&lines=HELLO!👋;My+name+is+Gustavo;I'm+17+years+old;)](https://git.io/typing-svg)
 
-<img width="20%" align="right" alt="Github" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-
+<table>
+  <tr>
+    <td>
+      
 - 👨🏽‍💻 I’m a Digital Systems and Media student at UFC, Ceará
 
 - 🌱 I’m currently studying at Digital College to become a Fullstack developer
@@ -9,7 +11,12 @@
 - 📚 I'm studying programming about 6 months (June/2023)
 
 - 🤔 My interest lies in Web Development (In the future I may study Date Analytics too). 
-
+    </td>
+    <td>
+       <img  height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&langs_count=6&theme=algolia"/>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
