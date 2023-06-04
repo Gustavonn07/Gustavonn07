@@ -1,6 +1,6 @@
 <h1> About Gustavo: </h1> 
 
-<img width="25%" align="right" alt="Github" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img width="20%" align="right" alt="Github" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 👨🏽‍💻 I’m a Digital Systems and Media student at UFC, Ceará
 
@@ -9,8 +9,6 @@
 - 📚 I'm studying programming about 6 months (June/2023)
 
 - 🤔 My interest lies in Web Development (In the future I may change to Date Analytics). 
-
-- 📫 Email me at <a href="gustavonepnog@gmail.com">gustavonepnog@gmail.com</a>
 
 
 <table>
