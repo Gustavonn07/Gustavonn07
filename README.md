@@ -8,7 +8,7 @@
 
 - 📚 I'm studying programming about 6 months (June/2023)
 
-- 🤔 My interest lies in Web Development (In the future I may change to Date Analytics). 
+- 🤔 My interest lies in Web Development (In the future I may study Date Analytics too). 
 
 
 <table>
