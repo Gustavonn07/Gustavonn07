@@ -1,6 +1,6 @@
 <h1> About Gustavo: </h1> 
 
-<img width="20%" align="right" alt="Github" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img width="25%" align="right" alt="Github" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 👨🏽‍💻 I’m a Digital Systems and Media student at UFC, Ceará
 
