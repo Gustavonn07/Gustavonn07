@@ -4,13 +4,13 @@
   <tr>
     <td>
       
-- 👨🏽‍💻 I’m a Digital Systems and Media student at UFC, Brasil (CE).
+- ### 👨🏽‍💻 I’m a Digital Systems and Media student at UFC, Brasil (CE).
 
-- 🌱 I’m currently studying at Digital College to become a Fullstack developer.
+- ### 🌱 I’m currently studying at Digital College to become a Fullstack developer.
 
-- 📚 I'm studying programming about 6 months (June/2023).
+- ### 📚 I'm studying programming about 6 months (June/2023).
 
-- 🤔 My interest lies in Web Development (In the future I may study Date Analytics too).
+- ### 🤔 My interest lies in Web Development (In the future I may study Date Analytics too).
  
     </td>
     <td align="center">
