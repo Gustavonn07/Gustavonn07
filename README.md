@@ -70,7 +70,7 @@
   
   <tr align='center'>
     <td>
-       <img  height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&langs_count=6&theme=algolia"/>
+       <img  height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&langs_count=6&theme=algolia"/>
     </td>
      <td>
     <img src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
