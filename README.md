@@ -20,12 +20,12 @@
 </table>
 
 <table>
-  <tr>
+  <tr align='center'>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavonn07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
+      <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavonn07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Gustavonn07&theme=algolia&hide_border=true" />
+      <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Gustavonn07&theme=algolia&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -70,10 +70,10 @@
   
   <tr align='center'>
     <td>
-       <img  height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&langs_count=6&theme=algolia"/>
+       <img width="90%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
     </td>
      <td>
-    <img src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
+    <img width="90%" src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
     </td>
   </tr>
   
