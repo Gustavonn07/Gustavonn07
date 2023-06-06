@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gustavonn07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavonn07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Gustavonn07&theme=algolia&hide_border=true" />
