@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=52&center=true&vCenter=true&width=1000&lines=HELLO!👋;My+name+is+Gustavo;I'm+17+years+old;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=52&center=true&vCenter=true&height=100&width=1000&lines=HELLO!👋;My+name+is+Gustavo;I'm+17+years+old;)](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -45,7 +45,7 @@
     </td>
   </tr>
   
-  <tr align='center'>
+  <tr align='center' height='100px'>
     <td>
       <img alt="Gustavo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -68,7 +68,7 @@
     <td><h2>Thanks for visiting my profile</h2></td>
   </tr>
   
-  <tr align='center'>
+  <tr align='center' height='300px'>
     <td>
        <img width="90%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
     </td>
