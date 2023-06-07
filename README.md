@@ -64,17 +64,17 @@
   </tr>
   
   <tr align='center'>
-    <td><h2>Check my Top Languages</h2></td>
-    <td><h2>Thanks for visiting my profile</h2></td>
+    <td colspan='2'><h2>Check my Top Languages</h2></td>
+<!--     <td><h2>Thanks for visiting my profile</h2></td> -->
   </tr>
   
   <tr align='center' height='300px'>
-    <td>
-       <img width="90%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
+    <td colspan='2'>
+       <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
     </td>
-     <td>
+<!--      <td>
     <img width="90%" src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
-    </td>
+    </td> -->
   </tr>
   
 </table>
