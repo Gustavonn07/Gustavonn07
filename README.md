@@ -14,7 +14,7 @@
  
     </td>
     <td align="center">
-      <img width="70%" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
+      <img width="100%" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
     </td>
   </tr>
 </table>
@@ -34,7 +34,7 @@
   
   <tr align='center'>
     <td colspan='2'>
-       <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
+       <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
     </td>
 <!--      <td>
     <img width="90%" src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
