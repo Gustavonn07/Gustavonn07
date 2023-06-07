@@ -20,6 +20,29 @@
 </table>
 
 <table>
+  
+  <tr></tr>
+  
+  <tr align='center'>
+    <td colspan='2'><h2>Check my Github status:</h2></td>
+<!--     <td><h2>Thanks for visiting my profile</h2></td> -->
+  </tr>
+  
+  <tr></tr>
+  
+  <tr></tr>
+  
+  <tr align='center'>
+    <td colspan='2'>
+       <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
+    </td>
+<!--      <td>
+    <img width="90%" src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
+    </td> -->
+  </tr>
+  
+  <tr></tr>
+  
   <tr align='center'>
     <td>
       <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavonn07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
@@ -63,18 +86,6 @@
     </td>
   </tr>
   
-  <tr align='center'>
-    <td colspan='2'><h2>Check my Top Languages</h2></td>
-<!--     <td><h2>Thanks for visiting my profile</h2></td> -->
-  </tr>
   
-  <tr align='center' height='300px'>
-    <td colspan='2'>
-       <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
-    </td>
-<!--      <td>
-    <img width="90%" src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
-    </td> -->
-  </tr>
   
 </table>
