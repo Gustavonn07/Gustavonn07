@@ -64,25 +64,21 @@
  <table>
   <tr align='center'>
     <th>
-      <h2>Next technologies I want to study</h2>
+      <h2>Tools</h2>
     </th>
     <th>
-      <h2>My Tools</h2>
+      <h2>Database</h2>
     </th>
   </tr>
   
   <tr align='center' height='100px'>
     <td>
-      <img alt="Gustavo-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      <img alt="Gustavo-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-      <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-      <img alt="Gustavo-REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    </td>
-    <td>
       <img alt="Gustavo-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img alt="Gustavo-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     </td>
+<!--     <td>
+      Por database      
+    </td> -->
   </tr>
   
   <tr align='center'>
@@ -105,5 +101,20 @@
       <img alt="Gustavo-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </td>
   </tr>
-    
+  
+  <tr align='center'>
+    <th colspan='2'>
+      <h2>Next Technologies I want to study</h2>
+    </th> 
+  </tr>
+  
+  <tr align='center' height='100px'>
+    <td colspan='2'>
+      <img alt="Gustavo-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img alt="Gustavo-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+      <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+      <img alt="Gustavo-REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    </td>
+  </tr>
 </table>
