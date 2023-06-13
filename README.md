@@ -12,7 +12,7 @@
 
 - #### 🤔 My interest lies in Web Development (In the future I may study Date Analytics too).
       
-- #### 🔎 My last project StudyTime https://gustavonn07.github.io/Studytime/
+- #### 🔎 My lastest project https://gustavonn07.github.io/Studytime/
  
     </td>
     <td align="center">
