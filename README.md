@@ -124,6 +124,7 @@
   
   <tr align='center' height='100px'>
     <td colspan='2'>
+      <img alt="Gustavo-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
       <img alt="Gustavo-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       <img alt="Gustavo-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
       <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
