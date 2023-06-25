@@ -89,9 +89,9 @@
       <img alt="Gustavo-PYCHARM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-plain.svg">
       <img alt="Gustavo-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     </td>
-<!--     <td>
-      Por database      
-    </td> -->
+    <td>
+      In progress...     
+    </td>
   </tr>
   
   <tr align='center'>
@@ -114,6 +114,24 @@
     </td>
     <td width='600px'>
       <img alt="Gustavo-PYTHON" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </td>
+  </tr>
+
+  <tr align='center'>
+    <th>
+      <h2>Mobile</h2>
+    </th>
+    <th>
+      <h2>Design</h2>
+    </th>
+  </tr>
+  
+  <tr align='center' height='100px'>
+    <td width='600px'>
+      In progress...
+    </td>
+    <td width='600px'>
+      In progress...
     </td>
   </tr>
   
