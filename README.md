@@ -116,33 +116,21 @@
       <img alt="Gustavo-PYTHON" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </td>
   </tr>
-
+  
   <tr align='center'>
     <th>
       <h2>Mobile</h2>
     </th>
-    <th>
-      <h2>Design</h2>
-    </th>
-  </tr>
-  
-  <tr align='center' height='100px'>
-    <td width='600px'>
-      In progress...
-    </td>
-    <td width='600px'>
-      In progress...
-    </td>
-  </tr>
-  
-  <tr align='center'>
     <th colspan='2'>
       <h2>Next Technologies I want to study</h2>
     </th> 
   </tr>
   
   <tr align='center' height='100px'>
-    <td colspan='2'>
+    <td>
+      In progress...
+    </td>
+    <td>
       <img alt="Gustavo-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       <img alt="Gustavo-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
       <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -151,6 +139,7 @@
       <img alt="Gustavo-PROCESSING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
       <img alt="Gustavo-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
       <img alt="Gustavo-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+      <img alt="Gustavo-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     </td>
   </tr>
 </table>
