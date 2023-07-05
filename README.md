@@ -10,7 +10,7 @@
 
 - #### 📚 I'm studying programming about 7 months (July/2023).
 
-- #### 🤔 My interest lies in Web Development with MERN stack (In the future I may study Date Analytics too).
+- #### 🤔 My interest lies in Web Development with MERN stack.
       
 - #### 🔎 My lastest project https://gustavonn07.github.io/Studytime/
  
