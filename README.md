@@ -8,9 +8,9 @@
 
 - #### 🌱 I’m currently studying at Digital College to become a Fullstack developer.
 
-- #### 📚 I'm studying programming about 7 months (July/2023).
+- #### 📚 I'm studying programming for about 7 months (July/2023).
 
-- #### 🤔 My interest lies in Web Development with MERN stack.
+- #### 🤔 My interests lies in Web Development with MERN stack.
       
 - #### 🔎 My lastest project https://gustavonn07.github.io/Studytime/
  
