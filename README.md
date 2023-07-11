@@ -88,6 +88,7 @@
       <img alt="Gustavo-WINDOWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
       <img alt="Gustavo-PYCHARM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-plain.svg">
       <img alt="Gustavo-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+      <img alt="Gustavo-NPM" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
     </td>
     <td>
       In progress...     
