@@ -106,7 +106,7 @@
   
   <tr align='center' height='100px'>
     <td width='600px'>
-      <img alt="Gustavo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img alt="Gustavo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <img alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img alt="Gustavo-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -136,7 +136,7 @@
       <img alt="Gustavo-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
       <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
       <img alt="Gustavo-REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
       <img alt="Gustavo-PROCESSING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
       <img alt="Gustavo-P5" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:300/1*h9G7gjWQeQVwqkbhHVvOQg.png">
       <img alt="Gustavo-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
