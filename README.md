@@ -138,6 +138,7 @@
       <img alt="Gustavo-REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img alt="Gustavo-PROCESSING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
+      <img alt="Gustavo-P5" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:300/1*h9G7gjWQeQVwqkbhHVvOQg.png">
       <img alt="Gustavo-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
       <img alt="Gustavo-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
       <img alt="Gustavo-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
