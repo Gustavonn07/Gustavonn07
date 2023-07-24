@@ -42,7 +42,7 @@
   
   <tr align='center'>
     <td colspan='2'>
-       <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
+       <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=7&theme=algolia"/>
     </td>
 <!--      <td>
     <img width="90%" src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
