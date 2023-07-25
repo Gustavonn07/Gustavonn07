@@ -22,10 +22,10 @@
     </td>
   </tr>
 </table>
-<!-- 
-<table>
-  <tr>
-     <td>
+
+<!-- <table>
+  <tr align='center'>
+     <th colspan='2'> <h2>My latest projects</h2> </th>
   </tr>
 </table> -->
 
