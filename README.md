@@ -15,7 +15,7 @@
 
 - #### 🤔 My interests lies in Web Development with MERN stack.
       
-- #### 🔎 My lastest project https://gustavonn07.github.io/Studytime/
+- #### 🔎 My lastest project https://linktree-gustavo.vercel.app/
  
     </td>
     <td align="center">
