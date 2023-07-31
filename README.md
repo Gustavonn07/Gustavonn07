@@ -9,7 +9,7 @@
 
 - #### 🌱 I’m currently studying at Digital College to become a Fullstack developer.
 
-- #### 📚 I'm studying programming for about 8 months (June/2023).
+- #### 📚 I'm studying programming for about 8 months (August/2023).
   
 - #### 📖 Studying at this moment: Javascript and Processing.
 
