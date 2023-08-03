@@ -11,7 +11,7 @@
 
 - #### 📚 I'm studying programming for about 8 months (August/2023).
   
-- #### 📖 Studying at this moment: Javascript and Processing.
+- #### 📖 Studying at this moment: Javascript, Processing and React.
 
 - #### 🤔 My interests lies in Web Development with MERN stack.
       
