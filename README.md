@@ -36,7 +36,6 @@
   
   <tr align='center'>
     <td colspan='2'><h2>Check my Github status:</h2></td>
-<!--     <td><h2>Thanks for visiting my profile</h2></td> -->
   </tr>
   
   <tr></tr>
