@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>
+    <td> 
     
       
 - #### 👨🏽‍💻 I’m a Digital Systems and Media student at UFC, Brasil (CE).
