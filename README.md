@@ -24,12 +24,6 @@
   </tr>
 </table>
 
-<!-- <table>
-  <tr align='center'>
-     <th colspan='2'> <h2>My latest projects</h2> </th>
-  </tr>
-</table> -->
-
 <table>
   
   <tr></tr>
