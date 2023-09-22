@@ -6,15 +6,10 @@
 
 
 - #### 👨🏽‍💻 I’m a Digital Systems and Media student at UFC, Brasil (CE).
-
 - #### 🌱 I’m currently studying at Digital College to become a Fullstack developer.
-
 - #### 📚 I'm studying programming for about 9 months (September/2023).
-  
-- #### 📖 Studying at this moment: Javascript, Typescript, Processing and React.
-
+- #### 📖 Studying at this moment: Javascript, Processing and React.
 - #### 🤔 My interests lies in Web Development with MERN stack.
-      
 - #### 🔎 My lastest project https://linktree-gustavo.vercel.app/
  
     </td>
