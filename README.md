@@ -4,7 +4,6 @@
   <tr>
     <td> 
 
-
 - #### 👨🏽‍💻 I’m a Digital Systems and Media student at UFC.
 - #### 📚 I'm studying programming for about 9 months (September/2023).
 - #### 📖 Studying at this moment: Javascript, Processing and React.
