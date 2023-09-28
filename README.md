@@ -70,6 +70,7 @@
     <td>
       <img alt="Gustavo-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img alt="Gustavo-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+      <img alt="Gustavo-VERCEL" height="30" width="30" src="https://flow-public.nimbuspop.com/flow-apps/vercel.png">
       <img alt="Gustavo-WINDOWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
       <img alt="Gustavo-PYCHARM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-plain.svg">
       <img alt="Gustavo-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
