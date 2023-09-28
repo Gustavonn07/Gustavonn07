@@ -5,7 +5,7 @@
     <td> 
 
 -  👨🏽‍💻 I’m a Digital Systems and Media student at UFC.
--  📚 I'm studying programming for about 9 months (September/2023).
+-  📚 I'm studying programming for about 10 months (October/2023).
 -  📖 Studying at this moment: Javascript, React and Figma.
 -  🤔 My interests lies in Web Development with MERN stack.
 -  🔎 My lastest project https://linktree-gustavo.vercel.app/
