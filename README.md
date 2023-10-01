@@ -9,6 +9,7 @@
 -  📖 Studying at this moment: Javascript, React and Figma.
 -  🤔 My interests lies in Web Development with MERN stack.
 -  🔎 My lastest project https://linktree-gustavo.vercel.app/
+
  
     </td>
     <td align="center">
