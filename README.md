@@ -5,6 +5,7 @@
     <td> 
 
 -  👨🏽‍💻 I’m a Digital Systems and Media student at UFC.
+-  💜 Trainee at GTIjr.
 -  📚 I'm studying programming for about 10 months (October/2023).
 -  📖 Studying at this moment: Javascript, React w/ Typescript and Figma.
 -  🤔 My interests lies in Web Development with MERN stack.
