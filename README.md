@@ -78,7 +78,7 @@
       <img alt="Gustavo-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
       <img alt="Gustavo-PROCESSING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
       <img alt="Gustavo-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-      <img alt="Gustavo-PHOTOPEA" height="30" width="30" src="https://i.pinimg.com/originals/d5/77/24/d57724c24f2133b292e992aa17c38e56.png">
+<!--       <img alt="Gustavo-PHOTOPEA" height="30" width="30" src="https://i.pinimg.com/originals/d5/77/24/d57724c24f2133b292e992aa17c38e56.png"> -->
       <img alt="Gustavo-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     </td>
     <td>
@@ -97,8 +97,8 @@
   
   <tr align='center' height='100px'>
     <td width='600px'>
-      <img alt="Gustavo-BABEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg">
-      <img alt="Gustavo-WEBPACK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
+<!--       <img alt="Gustavo-BABEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg">
+      <img alt="Gustavo-WEBPACK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"> -->
       <img alt="Gustavo-REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
       <img alt="Gustavo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
