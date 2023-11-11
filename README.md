@@ -4,7 +4,7 @@
   <tr>
     <td> 
 
--  👨🏽‍💻 I’m a Digital Systems and Media student at UFC.
+-  👨🏽‍💻 I’m a Digital Systems and Media (SMD) student at UFC.
 -  💜 Trainee at GTIjr.
 -  📚 I'm studying programming for about 11 months (November/2023).
 -  📖 Studying at this moment: Javascript, React.
