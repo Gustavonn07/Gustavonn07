@@ -82,7 +82,7 @@
       <img alt="Gustavo-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     </td>
     <td>
-      <img alt="Gustavo-MariaDB" height="50" width="50" src="https://download.zone/wp-content/uploads/2019/11/mariadb-download-e1638004778846.png">    
+      <img alt="Gustavo-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">   
     </td>
   </tr>
   
