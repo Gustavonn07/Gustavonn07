@@ -7,7 +7,7 @@
 -  👨🏽‍💻 I’m a Digital Systems and Media (SMD) student at UFC.
 -  💜 Trainee at GTIjr.
 -  📚 I'm studying programming for about 11 months (December/2023).
--  📖 Studying at this moment: Javascript, React and MariaDB.
+-  📖 Studying at this moment: Javascript, React and MySQL.
 -  🤔 My interests lies in Web Development with MERN stack.
 -  🔎 My lastest project https://linktree-gustavo.vercel.app/
 
