@@ -9,7 +9,7 @@
 -  📚 I'm studying programming for about 11 months (December/2023).
 -  📖 Studying at this moment: Javascript, React and MySQL.
 -  🤔 My interests lies in Web Development with MERN stack.
--  🔎 My lastest project https://linktree-gustavo.vercel.app/
+-  🔎 My lastest project https://calmty.vercel.app/
 
  
     </td>
