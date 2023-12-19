@@ -7,7 +7,7 @@
 -  👨🏽‍💻 I’m a Digital Systems and Media (SMD) student at UFC.
 -  💜 Web developer at GTIjr.
 -  📚 I'm studying programming for about 11 months (December/2023).
--  📖 Studying at this moment: React and MySQL.
+-  📖 Studying at this moment: React, MySQL and Node.
 -  🤔 My interests lies in Web Development with MERN stack.
 -  🔎 My lastest project https://calmty.vercel.app/
 
@@ -110,6 +110,8 @@
     </td>
     <td width='600px'>
       <img alt="Gustavo-PYTHON" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img alt="Gustavo-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img alt="Gustavo-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
     </td>
   </tr>
   
@@ -127,8 +129,6 @@
       In progress...
     </td>
     <td>
-      <img alt="Gustavo-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      <img alt="Gustavo-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
       <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <!--       <img alt="Gustavo-P5" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:300/1*h9G7gjWQeQVwqkbhHVvOQg.png"> -->
       <img alt="Gustavo-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
