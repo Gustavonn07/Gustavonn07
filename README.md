@@ -6,7 +6,7 @@
 
 -  👨🏽‍💻 I’m a Digital Systems and Media (SMD) student at UFC.
 -  💜 Web developer at GTIjr.
--  📚 I'm studying programming for about 11 months (December/2023).
+-  📚 I'm studying programming for about 1 year (January/2023).
 -  📖 Studying at this moment: React, MySQL and Node.
 -  🤔 My interests lies in Web Development with MERN stack.
 -  🔎 My lastest project https://calmty.vercel.app/
