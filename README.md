@@ -6,7 +6,7 @@
 
 -  👨🏽‍💻 I’m a Digital Systems and Media (SMD) student at UFC.
 -  💜 Web developer at GTIjr.
--  📚 I'm studying programming for about 1 year (January/2023).
+-  📚 I'm studying programming for about 1.1 year (February/2024).
 -  📖 Studying at this moment: Next.js, MySQL and Node.
 -  🤔 My interests lies in Web Development with MERN stack.
 -  🔎 My lastest project https://calmty.vercel.app/
@@ -107,7 +107,7 @@
       <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--       <img alt="Gustavo-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> -->
 <!--       <img alt="Gustavo-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> -->
-      <img alt="Gustavo-TAILWIND" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+      <img alt="Gustavo-TAILWIND" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
     </td>
     <td width='600px'>
       <img alt="Gustavo-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
