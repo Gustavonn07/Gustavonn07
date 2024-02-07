@@ -26,7 +26,7 @@
   <tr></tr>
   
   <tr align='center'>
-    <td colspan='2'><h2>Veja meus status do Github:</h2></td>
+    <td colspan='2'><h1>Veja meus status do Github:</h1></td>
   </tr>
   
   <tr>
