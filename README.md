@@ -61,7 +61,7 @@
 
   
   <tr>
-    <td colspan='2'><img width="200%" alt="Github" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
+    <td colspan='2'><img width="100%" alt="Github" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
   </tr>
 
 
@@ -155,6 +155,7 @@
       <h2>Um pouco sobre mim:</h2>
     </th> 
   </tr>
+  
   <tr>
     <td align="center">
       <img width="100%" alt="Github" src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyNzM0NjQsIm5iZiI6MTcwNzI3MzE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDAyMzI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2YWFhZDcwZmI0NjIyOTE3NzZhMjAxZTM2MTUzODgwNTU2NjMxMjJmOTlkNWQzMTZiODM0MGY2NDQwYjAxODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.n4j0JkY2l2phWNQ1HC_nxV-8HtNXofHuCUMmgawTwX0" />
@@ -166,8 +167,6 @@
       - Possuo habilidades de design que considero úteis (aprendo sobre essa área em cursos que encontro e na própria faculdade), mas vejo essa área mais como um complemento do que realmente um foco do que quero fazer profissionalmente.
     </td>
   </tr>
-  <tr>
-    
-  </tr>
+  
 </table>
 
