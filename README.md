@@ -7,7 +7,7 @@
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
 -  💜 Desenvolvedor Web na GTI Engenharia jr.
 -  📚 Estou estudando programação desde 1 ano e 1 mês.
--  📖 Estudando nesse momento: Next.js, MySQL e Node.
+-  📖 Estudando nesse momento: Next.js, Node.js e MongoDB.
 -  🤔 Meus interesses estão na área do MERN stack.
 -  🔎 Meu ultimo projeto https://calmty.vercel.app/
 
