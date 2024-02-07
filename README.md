@@ -58,13 +58,25 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavonn07&theme=react-dark&hide_border=true" />
     </td>
   </tr>
+
+  
+  <tr>
+    <td colspan='2'><img width="200%" alt="Github" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
+  </tr>
+
+
+  <tr>
+    <th colspan='2'>
+      <h1>Minhas competências:</h1>
+    </th>
+  </tr>
   
   <tr align='center'>
     <th>
-      <h2>Tools</h2>
+      <h2>Ferramentas</h2>
     </th>
     <th>
-      <h2>Database</h2>
+      <h2>Bancos de dados</h2>
     </th>
   </tr>
   
@@ -129,7 +141,7 @@
   
   <tr align='center' height='100px'>
     <td>
-      In progress...
+      Em progresso...
     </td>
     <td>
       <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -153,6 +165,9 @@
       <br />
       - Possuo habilidades de design que considero úteis (aprendo sobre essa área em cursos que encontro e na própria faculdade), mas vejo essa área mais como um complemento do que realmente um foco do que quero fazer profissionalmente.
     </td>
+  </tr>
+  <tr>
+    
   </tr>
 </table>
 
