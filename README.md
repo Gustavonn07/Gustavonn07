@@ -141,7 +141,7 @@
       <h2>Mobile</h2>
     </th>
     <th colspan='2'>
-      <h2>Próximas tecnologias que pretendo estudar:</h2>
+      <h2>Próximos estudos:</h2>
     </th> 
   </tr>
   
