@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=52&center=true&vCenter=true&height=100&width=1000&lines=OLÁ!👋;Meu+nome+é+Gustavo;Tenho+18+anos+de+idade;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=52&center=true&vCenter=true&height=100&width=1000&lines=OLÁ!👋;Me+chamo+Gustavo;Tenho+18+anos+de+idade;)](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -7,7 +7,7 @@
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
 -  💜 Desenvolvedor Web na GTI Engenharia jr.
 -  📚 Estou estudando programação desde 1 ano e 1 mês.
--  📖 Estudando nesse momento: Next.js, MySQL and Node.
+-  📖 Estudando nesse momento: Next.js, MySQL e Node.
 -  🤔 Meus interesses estão na área do MERN stack.
 -  🔎 Meu ultimo projeto https://calmty.vercel.app/
 
@@ -26,7 +26,7 @@
   <tr></tr>
   
   <tr align='center'>
-    <td colspan='2'><h2>Veja meu github status:</h2></td>
+    <td colspan='2'><h2>Veja meus status do Github:</h2></td>
   </tr>
   
   <tr>
