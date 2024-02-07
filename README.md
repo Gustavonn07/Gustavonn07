@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=52&center=true&vCenter=true&height=100&width=1000&lines=HELLO!👋;My+name+is+Gustavo;I'm+18+years+old;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=52&center=true&vCenter=true&height=100&width=1000&lines=OLÁ!👋;Meu+nome+é+Gustavo;Tenho+18+anos+de+idade;)](https://git.io/typing-svg)
 
 <table>
   <tr>
     <td> 
 
--  👨🏽‍💻 I’m a Digital Systems and Media (SMD) student at UFC.
--  💜 Web developer at GTIjr.
--  📚 I'm studying programming for about 1.1 year (February/2024).
--  📖 Studying at this moment: Next.js, MySQL and Node.
--  🤔 My interests lies in Web Development with MERN stack.
--  🔎 My lastest project https://calmty.vercel.app/
+-  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
+-  💜 Desenvolvedor Web na GTI Engenharia jr.
+-  📚 Estou estudando programação desde 1 ano e 1 mês.
+-  📖 Estudando nesse momento: Next.js, MySQL and Node.
+-  🤔 Meus interesses estão na área do MERN stack.
+-  🔎 Meu ultimo projeto https://calmty.vercel.app/
 
  
     </td>
@@ -20,7 +20,7 @@
   
   
   <tr align='center'>
-    <td colspan='2'><h2>Check my Github status:</h2></td>
+    <td colspan='2'><h2>Veja meu github status:</h2></td>
   </tr>
   
   <tr>
@@ -115,13 +115,15 @@
       <img alt="Gustavo-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
     </td>
   </tr>
+
+  <!-- Este Read-me foi criado a partir do zero por Gustavo Nepomuceno em setembro de 2023 e tem sido uma fonte constante de orgulho e progresso desde então. Ao longo do tempo, tenho dedicado esforços para aperfeiçoá-lo, salvando cada alteração em commits passados, refletindo meu crescimento e evolução como desenvolvedor. Cada commit representa o esforço que foi feito. Caso alguém se interesse na utilização do mesmo, não haverá problemas, mas espero que em sua consciência e caráter não se copie e cole sem dar os devidos créditos. Não queria escrever isso, mas achei necessário, pois vi certo usuário copiando e colando sem dar os devidos créditos. -->
   
   <tr align='center'>
     <th>
       <h2>Mobile</h2>
     </th>
     <th colspan='2'>
-      <h2>Next Technologies I want to study</h2>
+      <h2>Próximas tecnologias que pretendo estudar:</h2>
     </th> 
   </tr>
   
@@ -136,4 +138,21 @@
 <!--       <img alt="Gustavo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
     </td>
   </tr>
+  <tr>
+    <th colspan='2'>
+      <h2>Um pouco sobre mim:</h2>
+    </th> 
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="100%" alt="Github" src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyNzM0NjQsIm5iZiI6MTcwNzI3MzE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDAyMzI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2YWFhZDcwZmI0NjIyOTE3NzZhMjAxZTM2MTUzODgwNTU2NjMxMjJmOTlkNWQzMTZiODM0MGY2NDQwYjAxODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.n4j0JkY2l2phWNQ1HC_nxV-8HtNXofHuCUMmgawTwX0" />
+    </td>
+    <td> 
+        - Comecei na programação vendo Python durante 3 meses, e aprendi muito sobre lógica de programação nesse período. Atualmente, estou mais focado em JavaScript no frontend, mas tenho muita vontade de me aprofundar no backend com Node.js, ou talvez com Ruby no futuro.
+      <br />
+      <br />
+      - Possuo habilidades de design que considero úteis (aprendo sobre essa área em cursos que encontro e na própria faculdade), mas vejo essa área mais como um complemento do que realmente um foco do que quero fazer profissionalmente.
+    </td>
+  </tr>
 </table>
+
