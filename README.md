@@ -99,6 +99,7 @@
 <!--       <img alt="Gustavo-PHOTOPEA" height="30" width="30" src="https://i.pinimg.com/originals/d5/77/24/d57724c24f2133b292e992aa17c38e56.png"> -->
       <img alt="Gustavo-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
       <img alt="Gustavo-INSOMNIA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
+      <img alt="Gustavo-DBEAVER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
     </td>
     <td>
       <img alt="Gustavo-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">   
