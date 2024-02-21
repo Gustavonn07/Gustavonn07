@@ -7,7 +7,7 @@
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
 -  💜 Desenvolvedor Web na GTI Engenharia jr.
 -  📚 Estou estudando programação desde 1 ano e 1 mês.
--  📖 Estudando nesse momento: Next.js, Node.js e MongoDB.
+-  📖 Estudando nesse momento: React.js, Node.js e MongoDB.
 -  🤔 Meus interesses estão na área do MERN stack.
 -  🔎 Meu ultimo projeto https://calmty.vercel.app/
 
@@ -106,7 +106,7 @@
       <img alt="Gustavo-DBEAVER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
     </td>
     <td>
-      <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<!--       <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
       <img alt="Gustavo-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">   
     </td>
   </tr>
@@ -124,9 +124,9 @@
     <td width='600px'>
 <!--       <img alt="Gustavo-BABEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg">
       <img alt="Gustavo-WEBPACK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"> -->
-      <img alt="Gustavo-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<!--       <img alt="Gustavo-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> -->
       <img alt="Gustavo-REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<!--       <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> -->
       <img alt="Gustavo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <img alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
