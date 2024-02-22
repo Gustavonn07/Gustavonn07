@@ -5,7 +5,6 @@
     <td> 
 
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
--  💜 Desenvolvedor Web na GTI Engenharia jr.
 -  📚 Estou estudando programação desde 1 ano e 1 mês.
 -  📖 Estudando nesse momento: React.js, Node.js e Jest.
 -  🤔 Meus interesses estão na área do MERN stack.
