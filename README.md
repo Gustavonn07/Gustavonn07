@@ -5,8 +5,8 @@
     <td> 
 
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
--  📚 Estou estudando programação desde 1 ano e 1 mês.
--  📖 Estudando nesse momento: React.js, Node.js e Jest.
+-  📚 Estou estudando programação desde 1 ano e 2 meses.
+-  📖 Estudando nesse momento: React.ts, Node.js e Jest.
 -  🤔 Meus interesses estão na área do MERN stack.
 -  🔎 Meu ultimo projeto https://calmty.vercel.app/
 
