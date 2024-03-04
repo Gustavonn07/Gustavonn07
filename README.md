@@ -5,6 +5,7 @@
     <td> 
 
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
+-  💼 Estagiando na empresa 704 Apps.
 -  📚 Estou estudando programação desde 1 ano e 2 meses.
 -  📖 Estudando nesse momento: React.ts, Node.js e Jest.
 -  🤔 Meus interesses estão na área do MERN stack.
@@ -161,7 +162,7 @@
 <!--       <img alt="Gustavo-P5" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:300/1*h9G7gjWQeQVwqkbhHVvOQg.png"> -->
       <img alt="Gustavo-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <!--       <img alt="Gustavo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
-      <img alt="Gustavo-RUBY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+<!--       <img alt="Gustavo-RUBY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> -->
     </td>
   </tr>
   <tr>
@@ -174,16 +175,19 @@
   
   <tr>
     <td align="center">
-      <img width="100%" height="400px" alt="Github" src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyNzM0NjQsIm5iZiI6MTcwNzI3MzE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDAyMzI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2YWFhZDcwZmI0NjIyOTE3NzZhMjAxZTM2MTUzODgwNTU2NjMxMjJmOTlkNWQzMTZiODM0MGY2NDQwYjAxODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.n4j0JkY2l2phWNQ1HC_nxV-8HtNXofHuCUMmgawTwX0" />
+      <img width="100%" height="500px" alt="Github" src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyNzM0NjQsIm5iZiI6MTcwNzI3MzE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDAyMzI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2YWFhZDcwZmI0NjIyOTE3NzZhMjAxZTM2MTUzODgwNTU2NjMxMjJmOTlkNWQzMTZiODM0MGY2NDQwYjAxODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.n4j0JkY2l2phWNQ1HC_nxV-8HtNXofHuCUMmgawTwX0" />
     </td>
     <td> 
-        - Comecei na programação vendo Python durante 3 meses, e aprendi muito sobre lógica de programação nesse período. Atualmente, estou mais focado em JavaScript no frontend, mas tenho muita vontade de me aprofundar no backend com Node.js, ou talvez com Ruby no futuro.
+        - Comecei na programação vendo Python durante 3 meses, e aprendi muito sobre lógica de programação nesse período. Agora estou mais focado em JavaScript no frontend, mas tenho muita vontade de me aprofundar no backend com Node.js, ou talvez com PHP no futuro.
       <br />
       <br />
       - Possuo habilidades de design que considero úteis (aprendo sobre essa área em cursos que encontro e na própria faculdade), mas vejo essa área mais como um complemento do que realmente um foco do que quero fazer profissionalmente.
       <br />
       <br />
-      - Atualmente estou no 2 semestre do curso de Sistemas e Mídias Digitais na Universidade Federal do Ceará.
+      - Estou no 2 semestre do curso de Sistemas e Mídias Digitais na Universidade Federal do Ceará.
+      <br />
+      <br />
+      - Atualmente, possuo experiência profissional tanto na GTI Engenharia Júnior, onde atuo como Assessor de Projetos desde dezembro de 2023, quanto na empresa 704 Apps, onde assumi o cargo de Desenvolvedor desde março de 2024. Ambas as experiências têm enriquecido meu conhecimento e habilidades, respectivamente.
     </td>
   </tr>
 
