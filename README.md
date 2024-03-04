@@ -159,9 +159,8 @@
       Em progresso...
     </td>
     <td>
-<!--       <img alt="Gustavo-P5" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:300/1*h9G7gjWQeQVwqkbhHVvOQg.png"> -->
       <img alt="Gustavo-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<!--       <img alt="Gustavo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
+      <img alt="Gustavo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <!--       <img alt="Gustavo-RUBY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> -->
     </td>
   </tr>
