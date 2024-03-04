@@ -8,7 +8,7 @@
 -  💼 Estagiando na empresa 704 Apps.
 -  📚 Estou estudando programação desde 1 ano e 2 meses.
 -  📖 Estudando nesse momento: React.ts, Node.js e Jest.
--  🤔 Meus interesses estão na área do MERN stack.
+-  🤔 Meus interesses estão na área de desenvolvimento web.
 -  🔎 Meu ultimo projeto https://calmty.vercel.app/
 
  
