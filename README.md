@@ -173,10 +173,11 @@
   <!-- Este Read-me foi criado a partir do zero por Gustavo Nepomuceno em setembro de 2023 e tem sido uma fonte constante de orgulho e progresso desde então. Ao longo do tempo, tenho dedicado esforços para aperfeiçoá-lo, salvando cada alteração em commits passados, refletindo meu crescimento e evolução como desenvolvedor. Cada commit representa o esforço que foi feito. Caso alguém se interesse na utilização do mesmo, não haverá problemas, mas espero que em sua consciência e caráter não se copie e cole sem dar os devidos créditos. Não queria escrever isso, mas achei necessário, pois vi certo usuário copiando e colando sem dar os devidos créditos. -->
   
   <tr>
-    <td align="center">
-      <img width="100%" height="500px" alt="Github" src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyNzM0NjQsIm5iZiI6MTcwNzI3MzE2NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA3VDAyMzI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2YWFhZDcwZmI0NjIyOTE3NzZhMjAxZTM2MTUzODgwNTU2NjMxMjJmOTlkNWQzMTZiODM0MGY2NDQwYjAxODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.n4j0JkY2l2phWNQ1HC_nxV-8HtNXofHuCUMmgawTwX0" />
-    </td>
-    <td> 
+    <td colspan='2'> 
+      <br />
+      <br />
+      <br />
+      <br />
         - Comecei na programação vendo Python durante 3 meses, e aprendi muito sobre lógica de programação nesse período. Agora estou mais focado em JavaScript no frontend, mas tenho muita vontade de me aprofundar no backend com Node.js, ou talvez com PHP no futuro.
       <br />
       <br />
@@ -187,6 +188,10 @@
       <br />
       <br />
       - Atualmente, possuo experiência profissional tanto na GTI Engenharia Júnior, onde atuo como Assessor de Projetos desde dezembro de 2023, quanto na empresa 704 Apps, onde assumi o cargo de Desenvolvedor desde março de 2024. Ambas as experiências têm enriquecido meu conhecimento e habilidades, respectivamente.
+      <br />
+      <br />
+      <br />
+      <br />
     </td>
   </tr>
 
