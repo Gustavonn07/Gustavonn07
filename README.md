@@ -6,8 +6,8 @@
 
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
 -  💼 Fullstack + Design na empresa GTI Engenharia Jr.
--  📚 Estou estudando programação desde 1 ano e 4 meses.
--  📖 Estudando nesse momento: PHP, Node.js e Jest.
+-  📚 Estou estudando programação a 2 anos.
+-  📖 Estudando nesse momento: Express.js, Node.js e Jest.
 -  🤔 Meus interesses estão na área de desenvolvimento web.
 -  🔎 Meu ultimo projeto https://calmty.vercel.app/
 
@@ -160,7 +160,7 @@
     </td>
     <td>
       <img alt="Gustavo-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-      <img alt="Gustavo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<!--       <img alt="Gustavo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> -->
 <!--       <img alt="Gustavo-RUBY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> -->
     </td>
   </tr>
