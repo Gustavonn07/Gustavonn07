@@ -7,7 +7,7 @@
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
 -  💼 Fullstack + Design na empresa GTI Engenharia Jr.
 -  📚 Estou estudando programação a 2 anos.
--  📖 Estudando nesse momento: Javascript e Typescript.
+-  📖 Estudando nesse momento: Java, Javascript e Typescript.
 -  🤔 Meus interesses estão na área de desenvolvimento web.
 -  🔎 Meu ultimo projeto https://calmty.vercel.app/
 
