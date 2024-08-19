@@ -9,7 +9,7 @@
 -  📚 Estou estudando programação a 2 anos.
 -  📖 Estudando nesse momento: Java, Javascript e Typescript.
 -  🤔 Meus interesses estão na área de desenvolvimento web.
--  🔎 Meu ultimo projeto https://calmty.vercel.app/
+-  🔎 Meu ultimo projeto [kanban-DnD](https://kanban-dnd-indol.vercel.app/)
 
  
     </td>
