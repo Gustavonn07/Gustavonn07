@@ -5,7 +5,7 @@
     <td> 
 
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
--  💼 Fullstack + Design na empresa GTI Engenharia Jr.
+-  💼 Desenvolvedor Front-end
 -  📚 Estou estudando programação a 2 anos.
 -  📖 Estudando nesse momento: React e Typescript.
 -  🤔 Meus interesses estão na área de desenvolvimento web.
@@ -188,9 +188,10 @@
       - Estou no 2 semestre do curso de Sistemas e Mídias Digitais na Universidade Federal do Ceará.
       <br />
       <br />
-      - Atualmente, possuo experiência profissional tanto na GTI Engenharia Júnior, onde atuo como Assessor de Projetos desde dezembro de 2023, quanto na empresa 704 Apps, onde assumi o cargo de Desenvolvedor desde março de 2024. Ambas as experiências têm enriquecido meu conhecimento e habilidades, respectivamente.
+      Possuo experiência profissional tanto na GTI Engenharia Júnior, onde atuei como Gerente de Projetos desde dezembro de 2023, quanto na empresa 704 Apps, onde assumi o cargo de Desenvolvedor desde março de 2024. Ambas as experiências têm enriquecido meu conhecimento e habilidades, respectivamente.
       <br />
       <br />
+      Atualmente trabalho como desenvolvedor Front-end na empresa Astrotech desde setembro de 2024, aperfeiçoando meus conhecimentos em Typescript e React.
       <br />
       <br />
     </td>
