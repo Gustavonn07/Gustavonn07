@@ -6,6 +6,7 @@
 
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
 -  💼 Desenvolvedor Front-end
+-  📝 Bolsista PID - UFC
 -  📚 Estou estudando programação a 2 anos.
 -  📖 Estudando nesse momento: React e Typescript.
 -  🤔 Meus interesses estão na área de desenvolvimento web.
