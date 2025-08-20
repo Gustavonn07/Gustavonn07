@@ -175,31 +175,21 @@
   <!-- Este Read-me foi criado a partir do zero por Gustavo Nepomuceno em setembro de 2023 e tem sido uma fonte constante de orgulho e progresso desde então. Ao longo do tempo, tenho dedicado esforços para aperfeiçoá-lo, salvando cada alteração em commits passados, refletindo meu crescimento e evolução como desenvolvedor. Cada commit representa o esforço que foi feito. Caso alguém se interesse na utilização do mesmo, não haverá problemas, mas espero que em sua consciência e caráter não se copie e cole sem dar os devidos créditos. Não queria escrever isso, mas achei necessário, pois vi certo usuário copiando e colando sem dar os devidos créditos. -->
   
   <tr>
-    <td colspan='2'> 
-      <br />
-      <br />
-      <br />
-      <br />
-        - Comecei na programação vendo Python durante 3 meses, e aprendi muito sobre lógica de programação nesse período. Agora estou mais focado em JavaScript no frontend, mas tenho muita vontade de me aprofundar no backend com Node.js, ou talvez com PHP no futuro.
-      <br />
-      <br />
-      - Possuo habilidades de design que considero úteis (aprendo sobre essa área em cursos que encontro e na própria faculdade), mas vejo essa área mais como um complemento do que realmente um foco do que quero fazer profissionalmente.
-      <br />
-      <br />
-      - Estou no 2 semestre do curso de Sistemas e Mídias Digitais na Universidade Federal do Ceará.
-      <br />
-      <br />
-      - Possuo experiência profissional tanto na GTI Engenharia Júnior, onde atuei como Gerente de Projetos desde dezembro de 2023, quanto na empresa 704 Apps, onde assumi o cargo de Desenvolvedor desde março de 2024. Ambas as experiências têm enriquecido meu conhecimento e habilidades, respectivamente.
-      <br />
-      <br />
-      - Atuei como desenvolvedor Front-end na empresa Astrotech desde julho de 2024 até agosto de 2025, aperfeiçoando meus conhecimentos em Typescript e React.
-      <br />
-      <br />
-      - Atualmente atuo com freelances como desenvolvedor Front-end e em projetos vinculados a Universidade Federal do Ceará.
-      <br />
-      <br />
-    </td>
-  </tr>
+  <td colspan="2">
+    <br /><br /><br /><br />
+    - Iniciei meus estudos em programação com Python, durante três meses, adquirindo uma base sólida em lógica de programação. Atualmente, meu foco está em JavaScript no front-end, mas tenho grande interesse em me aprofundar no back-end com Node.js ou, futuramente, PHP.  
+    <br /><br />
+    - Possuo habilidades em design, adquiridas tanto por cursos quanto pela faculdade, que considero um diferencial. No entanto, vejo essa área mais como um complemento às minhas competências principais de desenvolvimento.  
+    <br /><br />
+    - Estou cursando o 5º semestre de Sistemas e Mídias Digitais na Universidade Federal do Ceará.  
+    <br /><br />
+    - Atuei como Desenvolvedor Front-end na Astrotech entre julho de 2024 e agosto de 2025 (1 ano e 1 mês), aprimorando meus conhecimentos em TypeScript e React.  
+    <br /><br />
+    - Atualmente, trabalho como freelancer em projetos de Front-end, além de participar de iniciativas vinculadas à Universidade Federal do Ceará.  
+    <br /><br />
+  </td>
+</tr>
+
 
   <tr>
     <th colspan="2"><h3>Design feito por Gustavo Nepomuceno desde 2023</h3></th>
