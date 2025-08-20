@@ -8,7 +8,7 @@
 -  💼 Desenvolvedor Front-end
 -  📝 Bolsista PID - UFC
 -  📚 Estou estudando programação a 2 anos.
--  📖 Estudando nesse momento: React e Typescript.
+-  📖 Estudando nesse momento: React.ts e Java.
 -  🤔 Meus interesses estão na área de desenvolvimento web.
 -  🔎 Meu ultimo projeto [kanban-DnD](https://kanban-dnd-indol.vercel.app/)
 
@@ -192,7 +192,10 @@
       - Possuo experiência profissional tanto na GTI Engenharia Júnior, onde atuei como Gerente de Projetos desde dezembro de 2023, quanto na empresa 704 Apps, onde assumi o cargo de Desenvolvedor desde março de 2024. Ambas as experiências têm enriquecido meu conhecimento e habilidades, respectivamente.
       <br />
       <br />
-      - Atualmente trabalho como desenvolvedor Front-end na empresa Astrotech desde setembro de 2024, aperfeiçoando meus conhecimentos em Typescript e React.
+      - Atuei como desenvolvedor Front-end na empresa Astrotech desde julho de 2024 até agosto de 2025, aperfeiçoando meus conhecimentos em Typescript e React.
+      <br />
+      <br />
+      - Atualmente atuo com freelances como desenvolvedor Front-end e em projetos vinculados a Universidade Federal do Ceará.
       <br />
       <br />
     </td>
