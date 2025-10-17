@@ -177,7 +177,7 @@
   <tr>
   <td colspan="2">
     <br /><br /><br /><br />
-    - Iniciei meus estudos em programação com Python, durante três meses, adquirindo uma base sólida em lógica de programação. Atualmente, meu foco está em JavaScript no front-end, mas tenho grande interesse em me aprofundar no back-end com Node.js ou, futuramente, PHP.  
+    - Iniciei meus estudos em programação com Python, durante três meses, adquirindo uma base sólida em lógica de programação. Atualmente, meu foco está em Typescript no front-end, mas tenho grande interesse em me aprofundar no back-end com Node.js ou, futuramente, Java.  
     <br /><br />
     - Possuo habilidades em design, adquiridas tanto por cursos quanto pela faculdade, que considero um diferencial. No entanto, vejo essa área mais como um complemento às minhas competências principais de desenvolvimento.  
     <br /><br />
