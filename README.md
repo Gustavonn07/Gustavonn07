@@ -108,7 +108,8 @@
     </td>
     <td>
 <!--       <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
-      <img alt="Gustavo-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">   
+      <img alt="Gustavo-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
+      <img alt="Gustavo-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
     </td>
   </tr>
   
@@ -161,7 +162,6 @@
       <img alt="Gustavo-KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     </td>
     <td>
-      <img alt="Gustavo-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <!--       <img alt="Gustavo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> -->
 <!--       <img alt="Gustavo-RUBY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> -->
     </td>
