@@ -6,12 +6,10 @@
 
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
 -  💼 Desenvolvedor Front-end
--  📝 Bolsista PID - UFC
--  📚 Estou estudando programação a 2 anos.
--  📖 Estudando nesse momento: React.ts e Java.
--  🤔 Meus interesses estão na área de desenvolvimento web.
--  🔎 Meu ultimo projeto [kanban-DnD](https://kanban-dnd-indol.vercel.app/)
-
+-  📝 Desenvolvedor Front-end - LSBD
+-  📚 Estou estudando programação a 3 anos.
+-  📖 Estudando nesse momento: AoC e React.
+-  🤔 Meus interesses estão na área de engenharia de software.
  
     </td>
     <td align="center">
@@ -132,10 +130,10 @@
       <img alt="Gustavo-REACTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
       <img alt="Gustavo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      <img alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <!-- <img alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
 <!--       <img alt="Gustavo-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> -->
-      <img alt="Gustavo-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+      <!-- <img alt="Gustavo-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> -->
       <img alt="Gustavo-TAILWIND" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
     </td>
     <td width='600px'>
@@ -181,11 +179,11 @@
     <br /><br />
     - Possuo habilidades em design, adquiridas tanto por cursos quanto pela faculdade, que considero um diferencial. No entanto, vejo essa área mais como um complemento às minhas competências principais de desenvolvimento.  
     <br /><br />
-    - Estou cursando o 5º semestre de Sistemas e Mídias Digitais na Universidade Federal do Ceará.  
+    - Estou cursando o 6º semestre de Sistemas e Mídias Digitais na Universidade Federal do Ceará.  
     <br /><br />
     - Atuei como Desenvolvedor Front-end na Astrotech entre julho de 2024 e agosto de 2025 (1 ano e 1 mês), aprimorando meus conhecimentos em TypeScript e React.  
     <br /><br />
-    - Atualmente, trabalho como freelancer em projetos de Front-end, além de participar de iniciativas vinculadas à Universidade Federal do Ceará.  
+    - Atualmente, trabalho como desenvolvedor front-end no Laboratório de Sistemas de Bancos de Dados na UFC.  
     <br /><br />
   </td>
 </tr>
