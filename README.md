@@ -5,7 +5,6 @@
     <td> 
 
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
--  💼 Desenvolvedor Front-end
 -  📝 Desenvolvedor Front-end - LSBD
 -  📚 Estou estudando programação a 3 anos.
 -  📖 Estudando nesse momento: AoC e React.
