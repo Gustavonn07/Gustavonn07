@@ -7,7 +7,7 @@
 -  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
 -  📝 Desenvolvedor Front-end - LSBD
 -  📚 Estou estudando programação a 3 anos.
--  📖 Estudando nesse momento: AoC e React.
+-  📖 Estudando nesse momento: AoC e C++.
 -  🤔 Meus interesses estão na área de engenharia de software.
  
     </td>
