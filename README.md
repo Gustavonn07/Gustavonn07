@@ -5,10 +5,10 @@
     <td> 
 
 -  Estudante de Sistemas e Midias Digitais na UFC.
--  Desenvolvedor Front-end - LSBD
+-  Desenvolvedor - LSBD
 -  Estou estudando programação a 4 anos.
--  Estudando nesse momento: AoC e C++.
--  Meus interesses estão na área de engenharia de software.
+-  Estudando nesse momento: Sistemas Operacionais e C++.
+-  Meus interesses estão na área de aplicações desktop.
  
     </td>
     <td align="center">
@@ -178,7 +178,7 @@
     <br /><br />
     - Atuei como Desenvolvedor Front-end na Astrotech entre julho de 2024 e agosto de 2025 (1 ano e 1 mês), aprimorando meus conhecimentos em TypeScript e React.  
     <br /><br />
-    - Atualmente, trabalho como desenvolvedor front-end no Laboratório de Sistemas de Bancos de Dados na UFC.  
+    - Atualmente, trabalho como desenvolvedor no Laboratório de Sistemas de Bancos de Dados na UFC.  
     <br /><br />
   </td>
 </tr>
