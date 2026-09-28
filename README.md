@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=52&center=true&vCenter=true&height=100&width=1000&lines=OLÁ!👋;Me+chamo+Gustavo;Tenho+20+anos+de+idade;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=52&center=true&vCenter=true&height=100&width=1000&lines=OLÁ!👋;Me+chamo+Gustavo;Tenho+21+anos+de+idade;)](https://git.io/typing-svg)
 
 <table>
   <tr>
     <td> 
 
--  👨🏽‍💻 Estudante de Sistemas e Midias Digitais na UFC.
--  📝 Desenvolvedor Front-end - LSBD
--  📚 Estou estudando programação a 3 anos.
--  📖 Estudando nesse momento: AoC e C++.
--  🤔 Meus interesses estão na área de engenharia de software.
+-  Estudante de Sistemas e Midias Digitais na UFC.
+-  Desenvolvedor Front-end - LSBD
+-  Estou estudando programação a 4 anos.
+-  Estudando nesse momento: AoC e C++.
+-  Meus interesses estão na área de engenharia de software.
  
     </td>
     <td align="center">
@@ -21,34 +21,26 @@
       <img width="100%" alt="Github" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ1NjkzNzgsIm5iZiI6MTcxNDU2OTA3OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTAxVDEzMTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjYWU4Y2Y5YTc1MjQyYzMyNGIxMTA1NGUzYjk0NTZmNGZkN2FlZDliYzhjM2JjNjM4ZDgwZWI3MDI4ZTg2NjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1xmNFUPDQR8g58ZV74ek35y9rAVN3-DQ3bq2sC4a7ww" />
     </td>
   </tr>
-  <tr></tr>
-  
+<!--
   <tr align='center'>
     <td colspan='2'><h1>Veja meus status do Github:</h1></td>
   </tr>
   
-  <tr>
-    
-  </tr>
-
-  <!-- Este Read-me foi criado a partir do zero por Gustavo Nepomuceno em setembro de 2023 e tem sido uma fonte constante de orgulho e progresso desde então. Ao longo do tempo, tenho dedicado esforços para aperfeiçoá-lo, salvando cada alteração em commits passados, refletindo meu crescimento e evolução como desenvolvedor. Cada commit representa o esforço que foi feito. Caso alguém se interesse na utilização do mesmo, não haverá problemas, mas espero que em sua consciência e caráter não se copie e cole sem dar os devidos créditos. Não queria escrever isso, mas achei necessário, pois vi certo usuário copiando e colando sem dar os devidos créditos. -->
-  
-  <tr>
-    
-  </tr>
-  
+  <!--
   <tr align='center'>
     <td colspan='2'>
        <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavonn07&layout=compact&hide_border=true&langs_count=8&theme=algolia"/>
     </td>
-<!--      <td>
+    <td>
     <img width="90%" src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
-    </td> -->
+    </td>
   </tr>
-  
+  -->
+  <!--
   <tr></tr>
-  
-  <tr align='center'>
+  -->
+  <!--
+   <tr align='center'>
     <td>
       <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavonn07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
     </td>
@@ -56,19 +48,23 @@
       <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Gustavonn07&theme=algolia&hide_border=true" />
     </td>
   </tr>
-  
+  -->
+  <!--
   <tr></tr>
-  
+  -->
+  <!--
   <tr>
     <td colspan='2'>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavonn07&theme=react-dark&hide_border=true" />
     </td>
   </tr>
+  -->
 
-  
+  <!--
   <tr>
     <td colspan='2'><img width="100%" alt="Github" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
-  </tr>
+  </tr>  
+  -->
 
 
   <tr>
